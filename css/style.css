@@ -493,8 +493,10 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
-.w-75{
-	margin: 0 auto;
+.about-content {
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
 }
 .about .content h3 {
   font-weight: 600;
@@ -525,6 +527,13 @@ section {
 }
 .about .content p:last-child {
   margin-bottom: 0;
+}
+/*--- Small devices (landscape phones, 576px and less) -------- */
+@media (max-width: 576px) {
+.about-content{
+  margin: 0;
+  width: 100%;
+  }	
 }
 
 /*--------------------------------------------------------------
