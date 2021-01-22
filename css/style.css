@@ -2015,7 +2015,7 @@ section {
 /*--- Small devices (landscape phones, 576px and less) -------- */
 @media (max-width: 576px) {
 	.footer-newsletter{
-		margin-top: 15px;
+		margin-top: 45px;
 	}	
 }
 
