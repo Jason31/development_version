@@ -494,6 +494,7 @@ section {
 # About
 --------------------------------------------------------------*/
 .about-content {
+  text-align: justify;
  
 }
 .about .content h3 {
