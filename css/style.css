@@ -89,7 +89,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header.header-scrolled .logo a, #header.header-inner-pages .logo a {
-  color: #493c3e;
+  color: #fff;
 }
 
 @media (max-width: 992px) {
@@ -272,7 +272,7 @@ h1, h2, h3, h4, h5, h6 {
 .mobile-nav a {
   display: block;
   position: relative;
-  color: #493c3e;
+  color: #fff;
   padding: 10px 20px;
   font-weight: 500;
   outline: none;
@@ -2017,5 +2017,6 @@ section {
 		margin-top: 45px;
 	}	
 }
+
 
 
